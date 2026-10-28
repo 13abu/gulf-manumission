@@ -1,0 +1,31 @@
+Source: zdanowski_annex_geo.csv
+Statements 1921-1942 with a year: 923
+  of which residence located in present-day UAE (res_country AE): 579
+
+Main test, split at 1937: Trucial Coast residents, Sharjah vs elsewhere
+  1921-1936: Sharjah 56, elsewhere 154  -> 27% at Sharjah
+  1937-1942: Sharjah 288, elsewhere 81  -> 78% at Sharjah
+  chi-square = 146.5, p = 9.9e-34
+
+Robustness (a): without statements marked + (repeated): n = 569
+  27% at Sharjah before, 79% from 1937; chi-square = 147.2, p = 7e-34
+
+Robustness (b): moving the dividing year (larger chi-square = sharper change)
+  split 1930: before 40% Sharjah (n=77), after 62% (n=502); chi-square 13.5
+  split 1931: before 39% Sharjah (n=95), after 63% (n=484); chi-square 19.7
+  split 1932: before 34% Sharjah (n=122), after 66% (n=457); chi-square 40.0
+  split 1933: before 34% Sharjah (n=133), after 67% (n=446); chi-square 46.8
+  split 1934: before 32% Sharjah (n=154), after 69% (n=425); chi-square 66.3
+  split 1935: before 29% Sharjah (n=171), after 72% (n=408); chi-square 95.2
+  split 1936: before 27% Sharjah (n=182), after 74% (n=397); chi-square 112.3
+  split 1937: before 27% Sharjah (n=210), after 78% (n=369); chi-square 146.5
+  split 1938: before 32% Sharjah (n=278), after 85% (n=301); chi-square 170.9
+  split 1939: before 48% Sharjah (n=408), after 88% (n=171); chi-square 80.6
+  split 1940: before 55% Sharjah (n=517), after 98% (n=62); chi-square 43.7
+
+Gender, Trucial Coast residents, 1921-1936: share who made their statement at Sharjah
+  women 34 of 54 (63%), men 20 of 147 (14%); chi-square = 49.0, p = 2.6e-12
+  (a difference shows women and men used different Agencies; it does not show why)
+
+Caveat: counts depend on which statements Zdanowski found and transcribed; see the
+file-coverage check (IOR/R/15/1/208-212) in the methods chapter.

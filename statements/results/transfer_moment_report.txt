@@ -1,0 +1,33 @@
+statements (copies counted once): 95
+
+all:
+  any_transfer_moment    50 of 95 (53%)
+  sale_threat            35 of 95 (37%)
+  master_death           19 of 95 (20%)
+  other_transfer         6 of 95 (6%)
+  ill_treated            41 of 95 (43%)
+  beaten                 16 of 95 (17%)
+  not_paid_or_advance    19 of 95 (20%)
+women:
+  any_transfer_moment    22 of 37 (59%)
+  sale_threat            14 of 37 (38%)
+  master_death           6 of 37 (16%)
+  other_transfer         5 of 37 (14%)
+  ill_treated            17 of 37 (46%)
+  beaten                 4 of 37 (11%)
+  not_paid_or_advance    0 of 37 (0%)
+men:
+  any_transfer_moment    28 of 58 (48%)
+  sale_threat            21 of 58 (36%)
+  master_death           13 of 58 (22%)
+  other_transfer         1 of 58 (2%)
+  ill_treated            24 of 58 (41%)
+  beaten                 12 of 58 (21%)
+  not_paid_or_advance    19 of 58 (33%)
+
+transfer moment as the only ground given (no ill-treatment, beating or pay): 30 of 95 (32%)
+
+Zdanowski's annex, Sharjah, 1939-06-17 to 1941-07-29 (103 entries):
+  fear_of_sale           38 of 103 (37%)
+  re_enslavement         0 of 103 (0%)
+  (the annex has no field for a master's death; compare sale threat with fear_of_sale)

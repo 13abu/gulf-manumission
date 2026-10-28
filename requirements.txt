@@ -1,0 +1,5 @@
+pdfplumber
+folium
+matplotlib
+google-genai
+pillow

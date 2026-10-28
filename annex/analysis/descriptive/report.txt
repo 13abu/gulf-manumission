@@ -1,0 +1,27 @@
+A. 960 statements; 283 women (29%).
+   Field completeness by Agency is in missing_fields.csv.
+
+B. Of 783 statements giving both birthplace and residence, 178 (23%)
+   were born in the place where they lived (born_where_lived.csv; by Agency and period).
+
+   Statements labelled 'African' with a known birth country: 342; born in AE 132, OM 52, SA 38, YE 36, TZ 34, QA 13, IR 12, SD 8
+   (ethnicity_by_birth_country.csv: the label against the birthplace).
+
+C. 53 statements mention kidnapping. Birth countries of those people: unresolved 32, IR 8, not given 5, OM 3, AE 2, YE 1.
+   kidnapping_entries.csv lists each in full; note that some are relatives asking
+   for a kidnapped person, not the kidnapped person speaking.
+
+D. Fear of sale: men 12%, women 34%; ill-treatment: men 61%, women 42%.
+   reason_wording.csv: how uniform the annex's summaries of reasons are, by Agency and period
+   (Zdanowski's wording; compare with original statements before attributing it to the Agency).
+
+E. Whipple's index for all recorded ages: 426 (100 = no rounding; 500 = all on 0 or 5).
+   Ages are estimates; use bands, not single years (age_heaping.csv by Agency).
+
+G. Father's name unknown in 45 statements (5%).
+   Commonest fathers' names: Mubarak 88, Muhammad 64, Marzooq 33, Abdullah 32, Said 28.
+   Repetition alone does not show invention by the Agency: owners gave the enslaved
+   a small pool of names (Mubarak, Faraj, Bilal, Khamis), and fathers were often enslaved
+   too. The comparisons that can point to clerical practice are between Agencies and
+   periods (names_by_agency.csv): a jump in 'unknown' or 'Abdullah', or in concentration,
+   at one Agency or under one officer.

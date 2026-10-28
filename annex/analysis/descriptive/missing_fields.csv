@@ -1,0 +1,5 @@
+agency,statements,residence recorded,birthplace recorded,ethnicity_as_recorded recorded,age_years recorded,occupation recorded,father_name recorded,reason_or_circumstance recorded,date_iso recorded
+Sharjah Agency,400,94%,97%,77%,98%,84%,100%,94%,100%
+Muscat Agency,246,93%,97%,89%,98%,90%,99%,96%,100%
+Bahrain Agency,284,75%,88%,81%,96%,75%,100%,81%,100%
+other,30,60%,50%,57%,90%,40%,90%,53%,100%

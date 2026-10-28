@@ -1,0 +1,6 @@
+person mentions (owners, sellers, buyers, heirs, kidnappers, intermediaries): 196 in 96 statements
+  linkable (given name + at least one bin/bint): 155; unlinkable (bare name or group): 41
+distinct people after grouping: 118
+  appearing in more than one statement: 14
+  recurring across separate applications (dates more than 3 days apart): 7
+statements containing at least one recurring person: 17 of 97

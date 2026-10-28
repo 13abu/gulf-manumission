@@ -1,0 +1,33 @@
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+
+# copyrighted source and generated tables (contain names)
+annex/data/*.pdf
+annex/zdanowski_annex_table.csv
+annex/zdanowski_annex_geo.csv
+annex/gazetteer.csv
+annex/flow_map.html
+annex/places/*
+!annex/places/merge_decisions.csv
+annex/geonames/
+annex/analysis/descriptive/father_names.csv
+annex/analysis/descriptive/given_names.csv
+annex/analysis/descriptive/kidnapping_entries.csv
+
+# file 212: images, transcriptions, extractions, and everything with names
+statements/images/
+statements/transcriptions/
+statements/extractions/
+statements/*.csv
+statements/link_report.txt
+statements/recurrence_report.txt
+statements/zschema_report.txt
+
+# credentials
+*.cfg
+.env

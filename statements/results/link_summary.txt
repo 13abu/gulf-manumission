@@ -1,0 +1,21 @@
+statements in 212: 97
+  linked: 59; date differs: 6; probable spelling: 7; no annex entry: 25
+annex entries recorded at Sharjah between 1939-06-17 and 1941-07-29: 103; not linked to any 212 statement: 38 (see annex_unmatched_212.csv; 212 lacks subjects 15-23)
+
+Field agreement among linked statements (same / differs):
+  gender       59 / 0
+  father_name  59 / 0
+  age          53 / 3
+  birthplace   46 / 1   (plus 10 spelling variants)
+  residence    35 / 3   (plus 21 spelling variants)
+  flag ill_treated                  43 / 16
+  flag beaten                       51 / 8
+  flag chains_or_confinement        56 / 3
+  flag fear_of_sale                 43 / 16
+  flag not_paid_or_advance          43 / 16
+  flag kidnapped                    59 / 0
+  flag re_enslavement               59 / 0
+  flag family_separation_or_search  55 / 4
+  flag duplicate_certificate        59 / 0
+
+date differs: 6, of which same day and month in a different year (misprinted year): 2
